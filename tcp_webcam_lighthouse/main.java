@@ -6,7 +6,7 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 public class main {
-    public static int port_receiver = 42069;
+    public static int port_receiver = 42067;
     public static int port_sender = 42060;
     private static ServerSocket socket_receiver;
     private static ServerSocket socket_sender;
