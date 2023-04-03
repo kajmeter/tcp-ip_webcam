@@ -9,7 +9,7 @@ import java.util.Base64;
 
 public class main {
     public static String seed = "80t43er[g;l'gp[45wies-0--sdfg";
-    public static String ip = "46.41.141.14";
+    public static String ip = "127.0.0.1";
     public static int port = 42060;
     static private Socket socket;
     static private PrintWriter out;
